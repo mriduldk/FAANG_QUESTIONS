@@ -1,4 +1,4 @@
-# Question (Asked in Facebook, Apple, Amazon, Netflix and Google)
+# Question (Asked in Facebook, Apple, Amazon, Netflix And Google)
 
 You have to given an array A of size N.
 Find all the elements which appear more than floor(N/3) times in the given array.
